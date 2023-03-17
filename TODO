@@ -1,0 +1,4 @@
+- Updatovanje levela, pocetni level je 1
+- Kompjuter u zavisnosti  broja od levela 'odigra' toliko polja
+- Igra covek, ako pogodi, dodaje se +1 na level i kompjuter igra +1 polja
+- Royal Blue #234E70, Pale Yellow #FBF8BE
